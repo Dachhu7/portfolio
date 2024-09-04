@@ -24,10 +24,5 @@ Feel free to reach out to me through the following platforms:
 - **Email:** [kbdarshan0007@gmail.com](mailto:kbdarshan0007@gmail.com)
 - **Phone:** +91 9535359679
 - **LinkedIn:** [Darshan Kudache](https://www.linkedin.com/in/darshan-kudache-a4369328b/)
-  **GitHub:** [Darshan Kudache](https://github.com/Dachhu7)
-
-
-## License
-
-This portfolio is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+- **GitHub:** [Darshan Kudache](https://github.com/Dachhu7)
 
