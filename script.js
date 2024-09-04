@@ -1,7 +1,7 @@
 // JavaScript for Typing Effect
 document.addEventListener("DOMContentLoaded", function () {
     const typingText = document.querySelector(".typing-text");
-    const words = ["Frontend Developer", "Web Designer", "Tech Enthusiast"];
+    const words = ["Backend Developer", "Front-End Developer", "Tech Enthusiast"];
     let wordIndex = 0;
     let letterIndex = 0;
 
