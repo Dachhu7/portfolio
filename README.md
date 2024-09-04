@@ -2,13 +2,13 @@
 
 ## Description
 
-Welcome to my portfolio! I am Darshan Kudache, a recent graduate with a solid background in Python programming, computer science, and web development. This portfolio showcases my work, including web applications, technical projects, and my contributions to various domains of IT support.
+A passionate web developer with skills in Python, Flask, and MySQL. I have hands-on experience building dynamic web applications, including an Automated Email Sender that improves business communication. My background covers data structures, algorithms, and object-oriented programming. I'm dedicated to learning and applying new skills to solve problems and deliver effective solutions.
 
 
 ## Skills
 
 - **Programming Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Flask, React
+- **Frameworks:** Flask, React, Django
 - **Database Management:** MySQL
 - **Tools:** Git & GitHub, Visual Studio Code, MySQL Workbench, XAMPP
 - **Technical Support:** Diagnosing PCs, configuring and installing software, customer support
